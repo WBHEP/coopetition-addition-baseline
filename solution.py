@@ -10,7 +10,7 @@ def predict(data):
     """
     result = data['col1'] + data['col2']
     return result
-
+#test
 
 def main(input_dir, output_dir):
     """ main procedure """
